@@ -1,16 +1,29 @@
-# React + Vite
+# 🛒 E-Commerce Website - Built with React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive E-Commerce web application built with React.js. 
+Users can browse products, search, filter by category, view product details, 
+and manage their shopping cart easily.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[Click Here to View Live Project](https://your-live-link-here.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- 🏠 Home Page with Featured Products
+- 🛍️ Product Listing with Image, Name & Price
+- 🔍 Product Search
+- 🎯 Filter Products by Category
+- 👁️ Product Details Page
+- 🛒 Add to Cart / Remove from Cart
+- ➕ Increase / Decrease Quantity in Cart
+- 💰 Total Price Calculation
+- 📱 Fully Responsive for Mobile, Tablet & Desktop
+- ✨ Clean & Modern UI
 
-## React Compiler
+## 🛠️ Technologies Used
+- **React.js** - Frontend Library
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **React Router DOM** - For Navigation
+- **Context API / useState** - For Cart Management
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
